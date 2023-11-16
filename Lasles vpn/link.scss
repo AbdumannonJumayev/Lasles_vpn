@@ -1,0 +1,38 @@
+*{
+ border: 0;
+ padding: 0;
+ box-sizing: border-box;   
+}
+a{
+    text-decoration: none;
+color: inherit;
+}
+ul,li{
+    list-style: none;
+}
+.container{
+    width: 100%;
+    max-width: 940px;
+    padding: 0 20px;
+    margin: 0 auto;
+    // margin-left: 150px;
+    // margin-right: 150px;
+}
+
+
+@import"__navbar.scss";
+@import"__header.scss";
+@import"__box.scss";
+@import"__gerl.scss";
+@import"__plan.scss";
+@import"__vpn.scss";
+@import"__buy.scss";
+@import"__dot.scss";
+@import"__foot.scss";
+
+
+
+
+
+
+
